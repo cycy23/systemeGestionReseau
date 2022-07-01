@@ -1,0 +1,9 @@
+#phrase {font-size: large;color: #044349;}
+#une{height: 40%;display: flex;margin-top: 0%;margin-bottom: 0%; border-bottom:solid rgba(0, 0, 0, 0.097) 2px;initial: letter align 1px;}
+#logo{width: 120px;margin-top: 0px;margin-left: 3%;height: 90px;margin-right: 20%;font-size: 25px;}
+#barre-haute{margin-top: 8px;margin-left: 600px;padding-inline: 5px;font-size: 25px;margin-right: 2px;display: flex;}
+h5{margin-top:13px ;font-weight: normal;font-size:20px;margin-bottom: 20px;}
+a{text-decoration: none;color:#0c145c;font-size: x-large;margin-bottom: 2px;padding:10px 20px}
+#compteexistant{color: #fdc321;}
+input{ padding:10px 40px; background:#ffffffbd; width:400px; border-radius:25px;border: none;margin-bottom: 2%; font-size: 20px;border:solid rgba(47, 41, 41, 0.423);}
+#bt-start{ width: 200px;background-color: #0c145c;color: white;font-size: 20px;}
